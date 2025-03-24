@@ -19372,7 +19372,7 @@ p.w3ban-para {
     margin: 4px 0px;
     background: #fff;
     display: block;
-    -webkit-backface-vi sibility: visible;
+    -webkit-backface-visibility: visible;
     transition: opacity .2s ease;
     position: relative;
     border-radius: 50%;
