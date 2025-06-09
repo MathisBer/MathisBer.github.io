@@ -341,7 +341,7 @@ img,
 svg {
     vertical-align: middle;
     height: 500px;
-    width: 500px;
+    width: 600px;
 }
 
 table {
@@ -4993,7 +4993,7 @@ fieldset:disabled .btn {
 .card-img-top {
     width: 100%;
     height: 500px;
-    width: 500px;
+    width: 600px;
 }
 
 .card-img,
