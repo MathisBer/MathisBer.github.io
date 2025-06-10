@@ -4996,6 +4996,20 @@ fieldset:disabled .btn {
     width: 600px;
 }
 
+.card-img-certif{
+    width: 100%;
+    height: 12em;
+    width: 30em;
+    margin: auto;
+}
+
+.card-img-certif2{
+    width: 100%;
+    height: 32em;
+    width: 40em;
+    margin: auto;
+}
+
 .card-img,
 .card-img-top {
     border-top-left-radius: calc(.25rem - 1px);
